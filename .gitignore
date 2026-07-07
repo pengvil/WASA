@@ -1,0 +1,62 @@
+# Visual Studio hidden folder
+.vs/
+
+# Build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# User-specific Visual Studio files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vsconfig
+*.VC.db
+*.VC.VC.opendb
+*.cache
+*.pdb
+
+# Debug / release files
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# NuGet packages
+packages/
+*.nupkg
+project.assets.json
+project.nuget.cache
+
+# Logs
+*.log
+
+# SQL Server backup and generated database files
+*.mdf
+*.ldf
+*.trn
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+Thumbs.db
+Desktop.ini
+
+# Rider / JetBrains optional
+.idea/
+
+# ReSharper optional
+_ReSharper*/
+*.DotSettings.user
+
+
+.zip
+.rar
