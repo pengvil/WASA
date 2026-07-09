@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Noble-Knight-7/Water-and-Sewage-Management-System/main/gear64x64.ico" width="80" alt="App Icon"/>
+<img src="https://raw.githubusercontent.com/pengvil/WASA/main/gear64x64.ico" width="80" alt="App Icon"/>
 
 # 💧 Water & Sewage Management System
 
 **A role-based desktop application for water billing, complaints, maintenance, and reporting**
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/Noble-Knight-7/Water-and-Sewage-Management-System)
-[![Language](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://github.com/Noble-Knight-7/Water-and-Sewage-Management-System)
-[![Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/Noble-Knight-7/Water-and-Sewage-Management-System)
-[![Database](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://github.com/Noble-Knight-7/Water-and-Sewage-Management-System)
-[![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](https://github.com/Noble-Knight-7/Water-and-Sewage-Management-System)
-[![Course](https://img.shields.io/badge/Course-CSC2210%20OOP%202-blue?style=flat-square)](https://github.com/Noble-Knight-7/Water-and-Sewage-Management-System)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/pengvil/WASA )
+[![Language](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://github.com/pengvil/WASA)
+[![Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/pengvil/WASA)
+[![Database](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://github.com/pengvil/WASA)
+[![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](https://github.com/pengvil/WASA)
+[![Course](https://img.shields.io/badge/Course-CSC2210%20OOP%202-blue?style=flat-square)](https://github.com/pengvil/WASA)
 
 [📋 Overview](#-project-overview) · [🎯 Objectives](#-objectives) · [👥 Team](#-team-members) · [👤 Actors](#-actors--features) · [🔄 Workflows](#-actor-workflows) · [🗃️ Database](#️-database-schema) · [⚙️ Setup](#️-setup-instructions)
 
@@ -430,7 +430,7 @@ Code is organized by actor into separate folders — Admin, Customer, Service Of
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Noble-Knight-7/Water-and-Sewage-Management-System.git
+git clone https://github.com/pengvil/WASA.git
 ```
 
 **2. Restore the database**
@@ -507,7 +507,7 @@ The project is realistic and scope-appropriate for a four-member team, while cle
 
 | Resource | Link |
 |---|---|
-| GitHub Repository | [Noble-Knight-7/Water-and-Sewage-Management-System](https://github.com/Noble-Knight-7/Water-and-Sewage-Management-System) |
+| GitHub Repository | [pengvil/WASA](https://github.com/pengvil/WASA) |
 | ER Diagram Tool | [app.diagrams.net](https://app.diagrams.net/) |
 | C# Windows Forms Docs | [Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/) |
 | SQL Server Docs | [Microsoft SQL Server](https://learn.microsoft.com/en-us/sql/sql-server/) |
